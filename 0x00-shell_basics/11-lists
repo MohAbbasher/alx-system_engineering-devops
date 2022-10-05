@@ -2,4 +2,4 @@
 ls -al
 cd ..
 ls -al
-ls -al /boot
+ls -al /boot .. .
